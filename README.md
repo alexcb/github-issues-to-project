@@ -1,6 +1,8 @@
 # gh-issue-projector
 
-TODO
+TODO: make this work?
+
+note: this doesn't work currently; it's a mishmash of code that uses both github rest api and graphql.
 
 ## Usage
 
